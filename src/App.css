@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+html,
+body {
+  background-image: url("https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674240234/mountain-beautiful-landscape-background-design-illustration-free-vector_ls93xx.jpg");
+  font-family: Lato, sans-serif;
+  margin-top: 20px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 80em;
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  margin: 20px 0px;
+  margin-top: 80px;
+}
+
+.app-tareas{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor-logo{
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo{
+  width: 400px;
+  height: 200px;
+}
+
+.tareas-lista{
+  width: 600px;
+  min-height: 500px;
+  background-color: rgb(121, 14, 98);
+  padding: 25px;
+  margin: 10px;
+  border-radius: 26px;
+}
+
+.titulo{
+  font-size: 60px;
+  color: black;
+  font-family: 'Varela Round', sans-serif;
+}
