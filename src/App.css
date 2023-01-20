@@ -23,7 +23,7 @@ h1{
   font-family: Roboto, sans-serif;
   text-align: center;
   margin: 20px 0px;
-  margin-top: 80px;
+  margin-top: 20px;
 }
 
 .app-tareas{
@@ -53,6 +53,7 @@ h1{
   padding: 25px;
   margin: 10px;
   border-radius: 26px;
+  margin-bottom: 80px;
 }
 
 .titulo{
